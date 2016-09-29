@@ -53,7 +53,7 @@ def main():
     print("***********************************************************")
     print("\r\r")
 
-    # get a list of files in the directory, put them in a temp file
+    # get a list of directory files
     f = os.listdir('.')
 
     # setup the display grid
